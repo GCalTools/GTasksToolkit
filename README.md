@@ -12,4 +12,4 @@ Take control of your Google Tasks with this powerful desktop application designe
 - Import Google Takeout JSON to migrate Tasks between accounts or restore backups
 - Import/Export to spreadsheets/CSV (paid feature)
 
-Install GTasksToolkit: https://www.gcaltoolkit.com/downloads/#gtaskstoolkit
+Install GTasksToolkit: https://www.gcaltoolkit.com/downloads#gtaskstoolkit
